@@ -1,0 +1,1 @@
+{"inputs":["C:\\dev\\tmp\\calc_lib\\project.json","C:\\dev\\tmp\\calc_lib\\project.lock.json","C:\\dev\\tmp\\calc_lib\\Library.cs"],"outputs":["C:\\dev\\tmp\\calc_lib\\bin\\Debug\\netstandard1.6\\calc_lib.dll","C:\\dev\\tmp\\calc_lib\\bin\\Debug\\netstandard1.6\\calc_lib.pdb"],"buildArguments":{"version-suffix":null}}
